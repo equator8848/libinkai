@@ -4,16 +4,18 @@
 - 摄影爱好者：图虫、500px同名，网名 `哒成一派`
 - 联系我：841116931@qq.com
 
+<div>
 <img
   alt="Top Langs"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=libinkai"
 />
+</div>
 <div position="absolute">
-  <p>
-    <p align="center" style="font-size: 30px">Visitor count<br>
+  <p align="top">
+    <p style="font-size: 30px">Visitor count<br>
     <img width="300px" height="60px" src="https://profile-counter.glitch.me/libinkai/count.svg" />
   </p>
-  <img src="https://github-readme-stats.vercel.app/api?username=libinkai&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+  <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=libinkai&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 </div>
 
 <!--
